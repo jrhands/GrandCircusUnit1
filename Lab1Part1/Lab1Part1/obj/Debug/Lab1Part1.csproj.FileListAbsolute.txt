@@ -1,0 +1,14 @@
+C:\Users\Jacob\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Jacob\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Jacob\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Jacob\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Lab1Part1.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Lab1Part1.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Jacob\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Jacob\source\repos\Lab1Part1\Lab1Part1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Jacob\source\repos\Lab1Part1\Lab1Part1\bin\Debug\ConsoleApp1.exe
+C:\Users\Jacob\source\repos\Lab1Part1\Lab1Part1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Jacob\source\repos\Lab1Part1\Lab1Part1\obj\Debug\Lab1Part1.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\Lab1Part1\Lab1Part1\obj\Debug\Lab1Part1.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\Lab1Part1\Lab1Part1\obj\Debug\ConsoleApp1.exe
+C:\Users\Jacob\source\repos\Lab1Part1\Lab1Part1\obj\Debug\ConsoleApp1.pdb
